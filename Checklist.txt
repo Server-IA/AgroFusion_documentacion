@@ -1,0 +1,14 @@
+1. Base de datos .sql ---> plain (OK)
+2. Los repositorios backend y frontend (OK)
+3. Manual de usuario (OK)
+4. Manual Tecnico - en este debe incluir todas las programas/librerías/dependencias que usan los proyectos de git y el paso a paso de las instalación de cada una de ellas. (OK)
+5. El articulo que subieron a la plataforma. (OK)
+6. El proyecto III (OK)
+7. esta información en Word; (OK)
+7.1. Título de la obra o software:
+7.2. Nombres Completos: 
+7.3. Cedula:
+7.4. Dirección:
+7.5. Celular: 
+7.6. Correo electrónico: 
+7.7.Descripción del software: Maximo 500 cararacteres

@@ -1,4 +1,4 @@
-Frontend: https://github.com/MariaBarros02/agrofusion-frontendweb.git
-Backend usuarios y autenticación: https://github.com/MariaBarros02/agrofusion-backendauth.git
-Backend Auditoria: https://github.com/MariaBarros02/agrofusion-backendaudit.git
-Backend Integración: https://github.com/MariaBarros02/agrofusion-backendint.git
+Frontend: https://github.com/Server-IA/agrofusion-frontendweb.git
+Backend usuarios y autenticación: https://github.com/Server-IA/agrofusion-backendauth.git
+Backend Auditoria: https://github.com/Server-IA/agrofusion-backendaudit.git
+Backend Integración: https://github.com/Server-IA/agrofusion-backendint.git
